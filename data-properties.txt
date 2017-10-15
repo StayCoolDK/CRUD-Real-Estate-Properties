@@ -1,0 +1,17 @@
+[
+    {
+        "sUniqueId": 100001,
+        "sAddress": "Lygten 16",
+        "iPrice": "324324",
+        "iSize": "42234",
+        "iRooms": "342234",
+        "oImage1": "\/cms-v3\/imageuploads\/btc.png",
+        "oImage2": "\/cms-v3\/imageuploads\/default.png",
+        "oImage3": "\/cms-v3\/imageuploads\/default.png",
+        "oImage4": "\/cms-v3\/imageuploads\/default.png",
+        "oImage5": "\/cms-v3\/imageuploads\/default.png",
+        "fLat": "55.7064",
+        "fLng": "12.5391",
+        "sCreationDate": "2017-05-16"
+    }
+]

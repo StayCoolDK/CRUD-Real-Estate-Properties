@@ -1,0 +1,56 @@
+
+
+/************************************************************************/
+/************************************************************************/
+/************************************************************************/
+#wdw-users{
+	/*display: flex;*/
+	flex-direction: column;
+	background-color: #03A9F4;
+	overflow: auto;
+}
+
+#wdw-users .lbl-user{
+	display: flex;
+	justify-content: space-around;
+}
+#wdw-users .lbl-user:not(:first-child){
+	margin-top: 5px;
+}
+
+
+
+/************************************************************************/
+/************************************************************************/
+/************************************************************************/
+#wdw-edit-user{
+	/*display: flex;*/
+	flex-direction: column;
+	background-color: #E91E63;
+}
+
+#wdw-edit-user .lbl-user{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 20px;
+}
+
+#wdw-edit-user .lbl-user .lbl-user-username{
+	width: 400px;
+}
+
+
+/************************************************************************/
+/************************************************************************/
+/************************************************************************/
+
+#wdw-create-user{
+	/*display: flex;*/
+	background-color: #03A9F4;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+
+
